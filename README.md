@@ -1,10 +1,8 @@
 
-# Mouse Flight
-This project is an example of mouse controls for aircraft based on the excellent system used by Gaijin's War Thunder. It is in my opinion the single best and most robust system for controlling aircraft, especially those with more realistic physics.
+# MouseDrone
+This project is an example of mouse controls for aircraft. It is in my opinion the single best and most robust system for controlling aircraft, especially those with more realistic physics.
 
 ![screenshot](Screenshots/flight.gif)
-
-This project was built in **Unity 2017.3.1f1**, and tested in 2018.3.0 and 5.6.4.
 
 Note: When importing the package into 5.6.4, the demo scene will need to have its lighting reset. (Open Window->Lighting->Settings, then click the gear icon on the top right -> Reset.)
 
