@@ -65,15 +65,3 @@ If you'd like to add camera motion, such as the camera moving back when the airc
 
 ### Camera
 Transform of the camera itself. Only used as reference for rotating the MouseAim transform relative to the screen.
-
-# Changelog
-
-### 1.1 (Jan 6 2019)
-
-- Converted project/package to 2017.3.1f1 for improved compatibility
-- Removed C# code that was dependent on .Net 4.6 for improved compatibility
-- Removed unused materials and variables
-
-### 1.0 (Jan 4 2019)
-
-- Released
